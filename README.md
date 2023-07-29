@@ -2,7 +2,8 @@
 
 The "Mastermind Game" GitHub project is an application of a variant of the Mastermind board game developed with the Visual Studio environment and using the Visual Basic .NET programming language.
 
-> **Warning** : The project has been developed exclusively in a professional context, with the specific aim of promoting learning. It is carried out as a project for the University of Paris.
+> [!IMPORTANT]  
+> The project has been developed exclusively in a professional context, with the specific aim of promoting learning. It is carried out as a project for the University of Paris.
 
 <p align="center">
   <img src="https://github.com/Corentin-Lcs/iut-mastermind-game/blob/main/MasterMind.jpg" alt="MasterMind.jpg"/>
